@@ -1,6 +1,6 @@
 <?php
 
-namespace Lancodev\LunarPaypal\Events;
+namespace Creative2llc\LunarPaypal\Events;
 
 use Illuminate\Foundation\Events\Dispatchable;
 

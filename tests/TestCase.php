@@ -1,9 +1,9 @@
 <?php
 
-namespace Lancodev\LunarPaypal\Tests;
+namespace Creative2llc\LunarPaypal\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Lancodev\LunarPaypal\LunarPaypalServiceProvider;
+use Creative2llc\LunarPaypal\LunarPaypalServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
@@ -13,7 +13,7 @@ class TestCase extends Orchestra
         parent::setUp();
 
         Factory::guessFactoryNamesUsing(
-            fn (string $modelName) => 'Lancodev\\LunarPaypal\\Database\\Factories\\'.class_basename($modelName).'Factory'
+            fn (string $modelName) => 'Creative2llc\\LunarPaypal\\Database\\Factories\\'.class_basename($modelName).'Factory'
         );
     }
 

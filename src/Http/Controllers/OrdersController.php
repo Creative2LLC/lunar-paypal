@@ -1,9 +1,9 @@
 <?php
 
-namespace Lancodev\LunarPaypal\Http\Controllers;
+namespace Creative2llc\LunarPaypal\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Lancodev\LunarPaypal\Models\Paypal;
+use Creative2llc\LunarPaypal\Models\Paypal;
 use Lunar\Models\Cart;
 use Lunar\Models\Order;
 use Lunar\Models\Transaction;

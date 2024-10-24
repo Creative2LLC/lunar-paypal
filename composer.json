@@ -1,12 +1,12 @@
 {
-    "name": "lancodev/lunar-paypal",
+    "name": "creative2llc/lunar-paypal",
     "description": "This is my package lunar-paypal",
     "keywords": [
-        "lancodev",
+        "creative2llc",
         "laravel",
         "lunar-paypal"
     ],
-    "homepage": "https://github.com/lancodev/lunar-paypal",
+    "homepage": "https://github.com/creative2llc/lunar-paypal",
     "license": "MIT",
     "authors": [
         {
@@ -36,13 +36,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Lancodev\\LunarPaypal\\": "src",
-            "Lancodev\\LunarPaypal\\Database\\Factories\\": "database/factories"
+            "Creative2llc\\LunarPaypal\\": "src",
+            "Creative2llc\\LunarPaypal\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Lancodev\\LunarPaypal\\Tests\\": "tests"
+            "Creative2llc\\LunarPaypal\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -62,10 +62,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Lancodev\\LunarPaypal\\LunarPaypalServiceProvider"
+                "Creative2llc\\LunarPaypal\\LunarPaypalServiceProvider"
             ],
             "aliases": {
-                "LunarPaypal": "Lancodev\\LunarPaypal\\Facades\\LunarPaypal"
+                "LunarPaypal": "Creative2llc\\LunarPaypal\\Facades\\LunarPaypal"
             }
         }
     },

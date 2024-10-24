@@ -1,6 +1,6 @@
 <?php
 
-namespace Lancodev\LunarPaypal\Models;
+namespace Creative2llc\LunarPaypal\Models;
 
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Str;

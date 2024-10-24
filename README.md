@@ -1,9 +1,9 @@
 # Lunar PayPal
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/lancodev/lunar-paypal.svg?style=flat-square)](https://packagist.org/packages/lancodev/lunar-paypal)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/lancodev/lunar-paypal/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/lancodev/lunar-paypal/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/lancodev/lunar-paypal/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/lancodev/lunar-paypal/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/lancodev/lunar-paypal.svg?style=flat-square)](https://packagist.org/packages/lancodev/lunar-paypal)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/creative2llc/lunar-paypal.svg?style=flat-square)](https://packagist.org/packages/creative2llc/lunar-paypal)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/creative2llc/lunar-paypal/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/creative2llc/lunar-paypal/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/creative2llc/lunar-paypal/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/creative2llc/lunar-paypal/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/creative2llc/lunar-paypal.svg?style=flat-square)](https://packagist.org/packages/creative2llc/lunar-paypal)
 
 A custom PayPal payment driver for the [Lunar](https://lunarphp.io) framework.
 
@@ -12,7 +12,7 @@ A custom PayPal payment driver for the [Lunar](https://lunarphp.io) framework.
 You can install the package via composer:
 
 ```bash
-composer require lancodev/lunar-paypal
+composer require creative2llc/lunar-paypal
 ```
 
 Optionally, you can publish the views using
@@ -54,7 +54,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Kyle Anderson](https://github.com/lancodev)
+- [Kyle Anderson](https://github.com/creative2llc)
 - [All Contributors](../../contributors)
 
 ## License

@@ -1,5 +1,5 @@
 <?php
 
-use Lancodev\LunarPaypal\Tests\TestCase;
+use Creative2llc\LunarPaypal\Tests\TestCase;
 
 uses(TestCase::class)->in(__DIR__);

@@ -1,6 +1,6 @@
 <?php
 
-namespace Lancodev\LunarPaypal\Components;
+namespace Creative2llc\LunarPaypal\Components;
 
 use Livewire\Component;
 use Lunar\Facades\CartSession;
